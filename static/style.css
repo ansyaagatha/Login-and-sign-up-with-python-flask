@@ -1,0 +1,28 @@
+a.nav-link:hover{
+    color: darkmagenta;
+}
+
+.a:hover{
+    color: darkmagenta;
+}
+
+.btn:hover{
+    background-color: darkmagenta!important;
+}
+
+.navbar{
+    background-color: transparent!important;
+}
+
+li{
+    margin-right: 15px;
+}
+.row.menu {
+    margin-top: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.signUp {
+    margin-top: 50px;
+}
