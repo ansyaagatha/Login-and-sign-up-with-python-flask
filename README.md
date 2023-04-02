@@ -1,5 +1,5 @@
 # login-and-sign-up-with-python-flask
-This is my fake project to make Login and Sign Up form Python language with micro framework Flask
+This is my fake project to make Login and Sign Up form Python language with microframework Flask.
 A program that has the function of logging in and out using the Python programming language and the MySQL database
 
 This is the first page to perform the Sign Up function
